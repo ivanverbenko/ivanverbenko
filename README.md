@@ -30,6 +30,6 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanverbenkoe&hide_progress=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanverbenko&hide_progress=true&theme=transparent)
 <br/>
-<img src="https://komarev.com/ghpvc/?username=GusevADresume&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=ivanverbenko&style=flat-square&color=blue" alt=""/>
