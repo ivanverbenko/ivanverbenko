@@ -13,8 +13,12 @@
 ![Git](https://img.shields.io/badge/Git-%232671E5.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-%232671E5.svg?style=for-the-badge&logo=Celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%232671E5.svg?style=for-the-badge&logo=Redis&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
- ---
+
+![codewars](https://www.codewars.com/users/alt7/badges/micro)
  ### 📱Контакты:
 <div id="badges" align="left">
   <a href="https://rostov.hh.ru/resume/78dbb453ff0d961a540039ed1f427353626439">
